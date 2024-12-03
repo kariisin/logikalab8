@@ -1,0 +1,4 @@
+﻿  lab8.cpp
+C:\Users\23\OneDrive\Рабочий стол\lab8\lab8\lab8.cpp(3,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\23\OneDrive\Рабочий стол\lab8\lab8\lab8.cpp : message : см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+  lab8.vcxproj -> C:\Users\23\OneDrive\Рабочий стол\lab8\Debug\lab8.exe
